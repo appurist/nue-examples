@@ -1,0 +1,24 @@
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  line-height: 1.5;
+  margin: 2em;
+}
+
+footer {
+  background-color: antiquewhite;
+  color: black;
+}
+
+.footer {
+  background-color: antiquewhite;
+  color: darkgreen;
+}
+
+h1, h2, h3, p {
+  margin-block: .25em;
+}
