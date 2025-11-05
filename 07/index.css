@@ -1,0 +1,37 @@
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  margin: 2em;
+}
+
+header {
+  background-color: antiquewhite;
+  color: red;
+}
+
+footer {
+  background-color: antiquewhite;
+  color: black;
+}
+
+.footer {
+  background-color: antiquewhite;
+  color: darkgreen;
+}
+
+h1, h2, h3, p {
+  margin-block: .25em;
+}
+
+.card {
+  background-color: antiquewhite;
+  padding: 1rem;
+  margin: 1rem;
+  max-width: fit-content;
+  border-radius: 8px;
+}
