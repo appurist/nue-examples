@@ -9,6 +9,11 @@ body {
   margin: 2em;
 }
 
+header {
+  background-color: antiquewhite;
+  color: red;
+}
+
 footer {
   background-color: antiquewhite;
   color: black;

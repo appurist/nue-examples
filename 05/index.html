@@ -1,7 +1,18 @@
-<header :is="header">
-An alternate header, automatically living where ever the HTML is.
-</header>
-
 <h1>The Index Page</h1>
 
+<header>
+An alternate header, automatically living where ever the HTML is, 
+a &lt;header&gt;, gets styled, doesn't seem to actually get inserted into the header component's slot.
+</header>
+
 <hello />
+
+<footer class="footer">
+    Another footer within the page. This one, a &lt;footer&gt; with a .footer, gets styled differently.
+</footer>
+
+<footer>
+    Another footer within the page. This one, a &lt;footer&gt;, gets styled.
+</footer>
+
+This text, even lower text on the main page, is not rendered. Hmm.
