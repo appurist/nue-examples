@@ -22,23 +22,28 @@ header {
   padding: 4px 8px;
 }
 
+subheader { }
+
 main {
   margin: 8px 32px;
 }
+
+aside { }
+
+pagehead { }
+
+pagefoot { }
+
+beside { }
+
 footer {
   background-color: rgb(136, 92, 35);
   color: whitesmoke;
   padding: 4px 8px;
 }
 
+bottom { }
+
 h1, h2, h3, p {
   margin-block: .25em;
-}
-
-.card {
-  background-color: antiquewhite;
-  padding: 1rem;
-  margin: 1rem;
-  max-width: fit-content;
-  border-radius: 8px;
 }
