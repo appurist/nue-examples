@@ -6,22 +6,29 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
-  margin: 2em;
+  margin: 0;
+}
+
+banner {
+  margin: 0;
+  width: 100%;
+  text-align: center;
 }
 
 header {
-  background-color: antiquewhite;
-  color: red;
+  background-color: cornflowerblue;
+  color: white;
+  margin: 0;
+  padding: 4px 8px;
 }
 
+main {
+  margin: 8px 32px;
+}
 footer {
-  background-color: antiquewhite;
-  color: black;
-}
-
-.footer {
-  background-color: antiquewhite;
-  color: darkgreen;
+  background-color: rgb(136, 92, 35);
+  color: whitesmoke;
+  padding: 4px 8px;
 }
 
 h1, h2, h3, p {
