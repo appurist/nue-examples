@@ -1,3 +1,8 @@
+---
+title: Example 07
+author: Paul Whittemore
+---
+
 [section]
     Some text that doesn't get rendered.
 
