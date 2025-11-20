@@ -1,0 +1,17 @@
+.call-to-action {
+  background-color: antiquewhite;
+  padding: 1rem;
+  margin: 1rem;
+  max-width: fit-content;
+  border-radius: 8px;
+}
+
+.call-to-action h1 {
+  font-size: large;
+  text-transform: uppercase;
+  width: 100%;
+  min-width: 100%;
+}
+
+.call-to-action p {
+  font-size: medium;

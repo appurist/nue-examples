@@ -1,0 +1,7 @@
+<!doctype html lib>
+
+<div :is="call-to-action" class="call-to-action {class}">
+    <h1 :if="title">{title}</h1>
+    <p :if="message">{message}</p>
+    <slot />
+</div>

@@ -1,0 +1,52 @@
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  display: inline-block;
+}
+
+banner {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+
+header {
+  background-color: cornflowerblue;
+  color: white;
+  margin: 0;
+  padding: 4px 8px;
+}
+
+subheader {
+  font-style: italic;
+ }
+
+main {
+  margin: 8px 32px;
+}
+
+aside { }
+
+pagehead { }
+
+pagefoot { }
+
+beside { }
+
+footer {
+  background-color: rgb(136, 92, 35);
+  color: whitesmoke;
+  padding: 4px 8px;
+}
+
+bottom { }
+
+h1, h2, h3, p {
+  margin-block: .25em;
+}

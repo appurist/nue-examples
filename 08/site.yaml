@@ -1,0 +1,12 @@
+meta:
+  title: Example 07
+  title_template: %s | Nue Examples
+  author: Paul Whittemore
+
+site:
+  origin: https://github.com/appurist/nue-examples
+  view_transitions: true
+
+design:
+  inline_css: true
+  
